@@ -8,6 +8,6 @@ network for automatic feature extraction.
 H. Sadreazami, M. Bolic and S. Rajan, Residual Network-based Supervised Learning of
 Remotely Sensed Fall Incidents using Ultra-wideband Radar, ISCAS, 2019.
 
-If you find the script helpful, please cite the the paper.
+If you find the script helpful, please cite the above paper.
 
 Contact me if you have questions.
